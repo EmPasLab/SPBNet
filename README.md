@@ -1,6 +1,6 @@
 # SPBNet: 1-D Spatial Attention in Binarized Convolutional Neural Networks.
 
-[1-D attention module](./SPB_module.png)
+![1-D attention module](./SPB_module.png)
 
 ## Requirements
 python = 3.8

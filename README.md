@@ -12,15 +12,16 @@ pip install -r requirement.txt
 
 ## training
 
-- Before running, download the dataset to the ```./data``` directory.
 
 ### ImageNet
+- Before running, download the dataset to the ```./imagenet/data``` directory.
 ```
 cd imagenet
 bash run.sh
 ```
 
 ### CIFAR-100
+- Before running, download the dataset to the ```./cifar100/data``` directory.
 ```
 cd cifar100
 bash run.sh
